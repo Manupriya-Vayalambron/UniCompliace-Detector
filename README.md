@@ -4,5 +4,9 @@ This system also stores the attendance details in firebase database. The trainin
 For object detection, we have used yolov8m algorithm aand for face recognition we have used the corresponding python libraries.
 Refreneces:
 Attendance system https://youtu.be/iBomaK2ARyI?si=kKvF1IkMX_TMK2w2
-Yolov8 Object Detection https://youtu.be/WgPbbWmnXJ8?si=pKq2NNB9_qEKyov3
-Our best.pt file which contain the best trained values https://drive.google.com/file/d/1XQd0Ev9X7VbqtcgY1dgxopf0CE3n05mA/view?usp=drive_link
+
+Yolov8 Object Detection 
+https://youtu.be/WgPbbWmnXJ8?si=pKq2NNB9_qEKyov3
+
+Our best.pt file which contain the best trained values 
+https://drive.google.com/file/d/1XQd0Ev9X7VbqtcgY1dgxopf0CE3n05mA/view?usp=drive_link
